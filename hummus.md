@@ -6,8 +6,12 @@
 * lemon
 * olive oil
 * salt
+* pepper
 * tahini
 * garlic
+* chilli
 
 #Instructions
-wash the chickpease, save some of the chickpea water
+1.wash the chickpease, save some of the chickpea water
+2.
+3.
