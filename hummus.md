@@ -6,3 +6,4 @@
 * lemon
 * olive oil
 * salt
+* tahini
